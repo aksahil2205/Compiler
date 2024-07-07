@@ -1,17 +1,17 @@
 # CS-202 PROJECT
 
-								By : Aniket Kumar Sahil
-								     2022CSB1067
+By : Aniket Kumar Sahil
+2022CSB1067
 
 >> The folder contains 5 files : 
-	<> cucu.l
-	<> cucu.y
-	<> Sample1.cu
-	<> Sample2.cu
-	<> read_me.txt
+	> cucu.l
+	> cucu.y
+	> Sample1.cu
+	> Sample2.cu
+	> read_me.txt
 
-<> Sample1.cu : Contains C code with correct syntax
-<> Sample2.cu : Contains C code with incorrect syntax
+>> Sample1.cu : Contains C code with correct syntax
+>> Sample2.cu : Contains C code with incorrect syntax
 	{You can modify them as per your wish}
 
 [Note : You can change the input file by changing the filename in line:154 of cucu.y]
