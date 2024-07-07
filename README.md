@@ -1,4 +1,4 @@
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ CS-202 PROJECT _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+# CS-202 PROJECT
 
 								By : Aniket Kumar Sahil
 								     2022CSB1067
@@ -10,8 +10,8 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_ CS-202 PROJECT _-_-_-_-_-_-_-_-_-_-_-_-_
 	<> Sample2.cu
 	<> read_me.txt
 
-<o> Sample1.cu : Contains C code with correct syntax
-<o> Sample2.cu : Contains C code with incorrect syntax
+<> Sample1.cu : Contains C code with correct syntax
+<> Sample2.cu : Contains C code with incorrect syntax
 	{You can modify them as per your wish}
 
 [Note : You can change the input file by changing the filename in line:154 of cucu.y]
